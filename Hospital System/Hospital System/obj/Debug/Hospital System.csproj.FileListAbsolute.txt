@@ -1,0 +1,11 @@
+C:\Users\jalil\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\jalil\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\jalil\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Dashboard.resources
+C:\Users\jalil\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
